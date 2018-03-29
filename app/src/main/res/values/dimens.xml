@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">14dp</dimen>
+    <dimen name="news_circle_size">3dp</dimen>
+    <dimen name="news_list_item_margin">5dp</dimen>
+    <dimen name="circle_view_width">10dp</dimen>
+    <dimen name="circle_view_height">10dp</dimen>
+    <dimen name="circle_view_margin">12dp</dimen>
+    <dimen name="secondary_text_size">12sp</dimen>
+</resources>

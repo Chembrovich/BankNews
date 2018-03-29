@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Новости и акции</string>
+    <string name="promo">Акция!</string>
+    <string name="news_file_name">news</string>
+    <string name="check_all_dialog_message">Отметить все новости как прочитанные?</string>
+    <string name="cancel">ОТМЕНА</string>
+    <string name="check_all">ОТМЕТИТЬ</string>
+    <string name="open_in_browser">ОТКРЫТЬ В БРАУЗЕРЕ</string>
+</resources>

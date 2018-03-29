@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009342</color>
+    <color name="colorPrimaryDark">#1b5e20</color>
+    <color name="colorAccent">#33691e</color>
+    <color name="secondaryText">#212121</color>
+    <color name="news_list_title_color">#212121</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="circle_color">#007910</color>
+    <color name="news_date_color">#757575</color>
+</resources>
